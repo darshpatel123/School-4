@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    
+}
+#oneid{
+ margin-top: 50;   
+}
+.my_nav_bar
+{
+    position:sticky;
+    top:0;
+    z-index:99999
+}
+#map{
+    margin-top: 50
+}
+#onn{
+cursor: pointer;
+    width:320
+}
+#wnew{
+    text-align: center;
+}
+#wnew p{
+   cursor: pointer; 
+}
+#wnew img{
+    cursor: pointer; 
+ }
+ #top{
+     padding-top="500"
+ }
+ #pepole p img {
+     cursor:pointer;
+ }
